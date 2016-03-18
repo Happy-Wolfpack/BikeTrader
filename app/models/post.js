@@ -16,7 +16,3 @@ var postSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Post', postSchema);
-
-
-// hello this is a test jenna
-// hello test #2
